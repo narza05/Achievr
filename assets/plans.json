@@ -1,0 +1,351 @@
+{
+  "Reduce screen time and improve focus in 7 days": {
+    "duration": 7,
+    "Current screen time is more than 5 hours": {
+      "isRecurring": false,
+      "plan": [
+        {
+          "date": "2025-05-02",
+          "dailyTasks": [
+            {
+              "title": "Track Screen Time",
+              "description": "Install and activate a screen time tracking app to monitor usage.",
+              "time": "08:00",
+              "isRecurring": false
+            },
+            {
+              "title": "No-Phone Zones",
+              "description": "Keep phone out of bedroom and dining area.",
+              "time": "21:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Uninstall One Time-Wasting App",
+              "description": "Uninstall one app that consumes unnecessary screen time.",
+              "time": "18:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-03",
+          "dailyTasks": [
+            {
+              "title": "Pomodoro Focus Practice",
+              "description": "Do 3 Pomodoro sessions (25min focus + 5min break).",
+              "time": "10:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Digital Detox Hour",
+              "description": "Stay away from screens for at least 1 full hour.",
+              "time": "19:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Screen-Free Hobby",
+              "description": "Spend 30 minutes doing a hobby like drawing or reading.",
+              "time": "17:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-04",
+          "dailyTasks": [
+            {
+              "title": "Morning Without Screen",
+              "description": "Avoid screen for first hour after waking up.",
+              "time": "07:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Organize Home Screen",
+              "description": "Move distracting apps off the home screen.",
+              "time": "20:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Call Instead of Scroll",
+              "description": "Call a friend or family member instead of scrolling social media.",
+              "time": "16:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-05",
+          "dailyTasks": [
+            {
+              "title": "Mindful Meal",
+              "description": "Eat all meals today without screens.",
+              "time": "13:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Limit Social Media to 30 Min",
+              "description": "Use phone settings to restrict social media apps.",
+              "time": "12:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Tech-Free Walk",
+              "description": "Take a 20-minute walk with no device.",
+              "time": "18:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-06",
+          "dailyTasks": [
+            {
+              "title": "App Usage Report Review",
+              "description": "Check screen time stats and compare with Day 1.",
+              "time": "09:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Use Grayscale Mode",
+              "description": "Enable grayscale display to reduce phone appeal.",
+              "time": "10:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Journal Screen-Free Benefits",
+              "description": "Write for 5 minutes about how reduced screen time is helping.",
+              "time": "21:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-07",
+          "dailyTasks": [
+            {
+              "title": "One Hour of Deep Work",
+              "description": "Do one hour of uninterrupted focused work or study.",
+              "time": "11:00",
+              "isRecurring": false
+            },
+            {
+              "title": "No Screen After 9 PM",
+              "description": "Wind down with no digital screens after 9 PM.",
+              "time": "21:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Replace Scrolling with Reading",
+              "description": "Read a physical book or e-reader without notifications.",
+              "time": "19:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-08",
+          "dailyTasks": [
+            {
+              "title": "Screen-Free Morning Routine",
+              "description": "Practice a 30-minute morning routine with no screens.",
+              "time": "07:30",
+              "isRecurring": false
+            },
+            {
+              "title": "Plan Offline Time",
+              "description": "Create a daily plan for future offline activities.",
+              "time": "20:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Celebrate Progress",
+              "description": "Reflect on changes and reward yourself with a non-digital treat.",
+              "time": "21:00"
+            }
+          ]
+        }
+      ]
+    },
+    "Current screen time is less than 5 hours": {
+      "isRecurring": false,
+      "plan": [
+        {
+          "date": "2025-05-02",
+          "dailyTasks": [
+            {
+              "title": "Morning Screen-Free Routine",
+              "description": "Avoid screens for the first 30 minutes after waking up.",
+              "time": "07:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Practice Deep Focus",
+              "description": "Work on a single task for 45 minutes without interruption.",
+              "time": "10:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Reflect on Usage",
+              "description": "Note when and why you pick up your phone. Identify one habit to change.",
+              "time": "20:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-03",
+          "dailyTasks": [
+            {
+              "title": "Use Do Not Disturb",
+              "description": "Keep your phone on DND during work/study blocks.",
+              "time": "11:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Shorten App Sessions",
+              "description": "Limit any entertainment apps to 15 minutes.",
+              "time": "16:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Journal Distractions",
+              "description": "List what distracts you and plan how to minimize it.",
+              "time": "19:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-04",
+          "dailyTasks": [
+            {
+              "title": "Screen-Free Meals",
+              "description": "Have all meals today without using your phone or watching screens.",
+              "time": "13:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Walk Without Phone",
+              "description": "Go for a 15-minute walk with no device.",
+              "time": "18:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Tech-Free Reading",
+              "description": "Read 10 pages of a physical book or distraction-free e-reader.",
+              "time": "20:30"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-05",
+          "dailyTasks": [
+            {
+              "title": "Avoid Screens After 9 PM",
+              "description": "Power down all digital screens by 9 PM.",
+              "time": "21:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Use Grayscale Mode",
+              "description": "Set your phone to grayscale for the day.",
+              "time": "09:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Organize App Layout",
+              "description": "Reorganize or remove unnecessary apps from home screen.",
+              "time": "17:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-06",
+          "dailyTasks": [
+            {
+              "title": "Focused Work Sprint",
+              "description": "Do 3 Pomodoro sessions (25 min focus + 5 min break).",
+              "time": "10:00",
+              "isRecurring": false
+            },
+            {
+              "title": "Daily Recap",
+              "description": "Note your total screen time and how you felt today.",
+              "time": "21:30",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Offline Enjoyment",
+              "description": "Spend at least 30 minutes doing a screen-free hobby.",
+              "time": "18:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-07",
+          "dailyTasks": [
+            {
+              "title": "Delay Morning Screen",
+              "description": "No screens for 1 hour after waking up.",
+              "time": "07:30",
+              "isRecurring": false
+            },
+            {
+              "title": "Silent Mode Practice",
+              "description": "Keep phone on silent during all deep work periods.",
+              "time": "14:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Digital Cleanse",
+              "description": "Unfollow or mute distracting pages on social media.",
+              "time": "16:00"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-08",
+          "dailyTasks": [
+            {
+              "title": "Morning Planning Without Screen",
+              "description": "Use a paper planner or notebook to plan your day.",
+              "time": "08:00",
+              "isRecurring": false
+            },
+            {
+              "title": "No-Screen Hour",
+              "description": "Stay away from all screens for 1 hour during peak energy time.",
+              "time": "17:00",
+              "isRecurring": false
+            }
+          ],
+          "specialTasks": [
+            {
+              "title": "Celebrate Focus Wins",
+              "description": "List 3 ways you’ve improved focus this week and reward yourself (non-digital).",
+              "time": "21:00"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

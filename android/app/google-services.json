@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510851122766",
+    "project_id": "achievr-7e171",
+    "storage_bucket": "achievr-7e171.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510851122766:android:1e464856ffc5f020f9651f",
+        "android_client_info": {
+          "package_name": "com.example.achievr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510851122766-q9b8iq1il1k002ck2gmb01ddoi9bt9lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.achievr",
+            "certificate_hash": "30951e4ec8313029a56f98523a140413a262f548"
+          }
+        },
+        {
+          "client_id": "510851122766-95ao5ol6n2cpi384322pcqs00497bl6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80MrJqLyndMqBcYqkj6VI92qmcriRg0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510851122766-95ao5ol6n2cpi384322pcqs00497bl6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
