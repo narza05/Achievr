@@ -19,14 +19,7 @@ Stay motivated with reminders & streaks
 Whether you're building a new habit, finishing a project, or hitting a personal milestone, Achievr brings structure and discipline to your goal-setting journey — all in one intuitive mobile experience.
 
 Features:
-
-
-## Screenshots
-
-![App Screenshot](https://private-user-images.githubusercontent.com/109076870/482096420-9c9373d4-360f-418d-8134-4f3ade66d492.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyMTE5NTgsIm5iZiI6MTc1NjIxMTY1OCwicGF0aCI6Ii8xMDkwNzY4NzAvNDgyMDk2NDIwLTljOTM3M2Q0LTM2MGYtNDE4ZC04MTM0LTRmM2FkZTY2ZDQ5Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNlQxMjM0MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTQzYTdjOWM3ZWY0YzkxNTc2ZjkwNDM0N2UxZmZiZDEyYjY1YWNmNTgyYjI4N2IxNmMxNDgzODRiOThhMThiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MQwm5dH_c030u6uWyoU3jfBcz6SqHyqYHaD-Q7oNuA4)
-
-
-
+<img src="https://github.com/narza05/Achievr/blob/main/assets/dash.png" width="220" alt="accessibility text" style="margin-right: 10px;"/>
 1. Dashboard
 
 A calendar view at the top with the current date pre-selected.
