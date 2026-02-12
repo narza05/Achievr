@@ -1,10 +1,10 @@
 
-import 'package:achievr/src/constants/constants.dart';
-import 'package:achievr/src/constants/strings.dart';
-import 'package:achievr/src/providers/auth_provider.dart';
-import 'package:achievr/src/providers/goal_provider.dart';
-import 'package:achievr/src/services/local_noti_services.dart';
-import 'package:achievr/src/utils/routes.dart';
+import 'package:achievr/src/core/constants/constants.dart';
+import 'package:achievr/src/core/constants/strings.dart';
+import 'package:achievr/src/features/auth/viewmodels/auth_provider.dart';
+import 'package:achievr/src/features/plans/view_models/goal_provider.dart';
+import 'package:achievr/src/features/shared/services/local_noti_services.dart';
+import 'package:achievr/src/core/utils/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';

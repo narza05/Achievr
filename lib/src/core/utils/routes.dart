@@ -1,0 +1,36 @@
+import 'package:achievr/src/features/auth/view/login.dart';
+import 'package:achievr/src/features/plans/view/create_goal.dart';
+import 'package:achievr/src/features/plans/view/goal_plan.dart';
+import 'package:achievr/src/features/plans/view/goals_dashboard.dart';
+import 'package:achievr/src/app/view/loading_screen.dart';
+import 'package:flutter/material.dart';
+
+import '../constants/strings.dart';
+
+class Routes {
+  Route? onGenerateRoutes(RouteSettings settings) {
+    switch (settings.name) {
+      case "/$loadingScreen":
+        return MaterialPageRoute(builder: (context) {
+          return const LoadingScreen();
+        });
+      case "/$loginScreen":
+        return MaterialPageRoute(builder: (context) {
+          return const Login();
+        });
+      case "/$goalDashboardScreen":
+        return MaterialPageRoute(builder: (context) {
+          return const GoalsDashboard();
+        });
+      case "/$createGoalScreen":
+        return MaterialPageRoute(builder: (context) {
+          return const CreateGoal();
+        });
+      case "/$goalPlanScreen":
+        return MaterialPageRoute(builder: (context) {
+          return const GoalPlan();
+        });
+    }
+    return null;
+  }
+}
